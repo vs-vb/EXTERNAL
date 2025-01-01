@@ -9,4 +9,8 @@ Section D
 >>>>>>> 4a8e51e (Fourth Commit)
 =======
 Third semester
+<<<<<<< HEAD
 >>>>>>> 2d77eec (Fifth commit)
+=======
+HAPPY NEW YEAR
+>>>>>>> ef248b4 (Sixth commit)
