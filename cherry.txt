@@ -1,2 +1,8 @@
 This is Vaibhav Vaswani
+<<<<<<< HEAD
 
+=======
+My USN is 1AY23CS206
+Branch CSE
+Section D
+>>>>>>> 4a8e51e (Fourth Commit)
